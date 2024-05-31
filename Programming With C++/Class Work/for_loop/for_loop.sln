@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "for_loop", "for_loop\for_loop.vcproj", "{CEA3D530-58FF-4E04-BED0-3A98CC05B4FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEA3D530-58FF-4E04-BED0-3A98CC05B4FC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CEA3D530-58FF-4E04-BED0-3A98CC05B4FC}.Debug|Win32.Build.0 = Debug|Win32
+		{CEA3D530-58FF-4E04-BED0-3A98CC05B4FC}.Release|Win32.ActiveCfg = Release|Win32
+		{CEA3D530-58FF-4E04-BED0-3A98CC05B4FC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

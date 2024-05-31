@@ -1,0 +1,5 @@
+C:\Users\Jonathan Moore\Desktop\examples\examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\bin\Debug\LINQWithSimpleTypeArray.exe
+C:\Users\Jonathan Moore\Desktop\examples\examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\bin\Debug\LINQWithSimpleTypeArray.pdb
+C:\Users\Jonathan Moore\Desktop\examples\examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonathan Moore\Desktop\examples\examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.exe
+C:\Users\Jonathan Moore\Desktop\examples\examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.pdb

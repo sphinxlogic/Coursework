@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<DeepZoomComposerProject version="1.0" name="CoverCollage">
+  <Settings>
+    <SourceDirectory>C:\examples\ch24\DeepZoomProject\CoverCollage\source images</SourceDirectory>
+    <TreeDirectory>C:\examples\ch24\DeepZoomProject\CoverCollage\working data</TreeDirectory>
+  </Settings>
+  <ImageList>
+    <Image>
+      <File>C:\examples\ch24\DeepZoomProject\CoverCollage\source images\c how to program (5th edition).jpg</File>
+      <Tree>C:\examples\ch24\DeepZoomProject\CoverCollage\working data\c how to program (5th edition)</Tree>
+      <TotalSize>11823389</TotalSize>
+    </Image>
+    <Image>
+      <File>C:\examples\ch24\DeepZoomProject\CoverCollage\source images\cpp how to program (6th edition)_1.jpg</File>
+      <Tree>C:\examples\ch24\DeepZoomProject\CoverCollage\working data\cpp how to program (6th edition)_1</Tree>
+      <TotalSize>6362163</TotalSize>
+    </Image>
+    <Image>
+      <File>C:\examples\ch24\DeepZoomProject\CoverCollage\source images\internet and world wide web how to program (4th edition)_1.jpg</File>
+      <Tree>C:\examples\ch24\DeepZoomProject\CoverCollage\working data\internet and world wide web how to program (4th edition)_1</Tree>
+      <TotalSize>8184699</TotalSize>
+    </Image>
+    <Image>
+      <File>C:\examples\ch24\DeepZoomProject\CoverCollage\source images\java how to program (7th edition)_1.jpg</File>
+      <Tree>C:\examples\ch24\DeepZoomProject\CoverCollage\working data\java how to program (7th edition)_1</Tree>
+      <TotalSize>8004261</TotalSize>
+    </Image>
+    <Image>
+      <File>C:\examples\ch24\DeepZoomProject\CoverCollage\source images\simply cpp_1.jpg</File>
+      <Tree>C:\examples\ch24\DeepZoomProject\CoverCollage\working data\simply cpp_1</Tree>
+      <TotalSize>5197919</TotalSize>
+    </Image>
+    <Image>
+      <File>C:\examples\ch24\DeepZoomProject\CoverCollage\source images\simply csharp_1.jpg</File>
+      <Tree>C:\examples\ch24\DeepZoomProject\CoverCollage\working data\simply csharp_1</Tree>
+      <TotalSize>12667613</TotalSize>
+    </Image>
+    <Image>
+      <File>C:\examples\ch24\DeepZoomProject\CoverCollage\source images\simply java_1.jpg</File>
+      <Tree>C:\examples\ch24\DeepZoomProject\CoverCollage\working data\simply java_1</Tree>
+      <TotalSize>5324945</TotalSize>
+    </Image>
+    <Image>
+      <File>C:\examples\ch24\DeepZoomProject\CoverCollage\source images\simply visual basic 2008_1.jpg</File>
+      <Tree>C:\examples\ch24\DeepZoomProject\CoverCollage\working data\simply visual basic 2008_1</Tree>
+      <TotalSize>5272672</TotalSize>
+    </Image>
+    <Image>
+      <File>C:\examples\ch24\DeepZoomProject\CoverCollage\source images\visual basic 2008 how to program_1.jpg</File>
+      <Tree>C:\examples\ch24\DeepZoomProject\CoverCollage\working data\visual basic 2008 how to program_1</Tree>
+      <TotalSize>8417989</TotalSize>
+    </Image>
+    <Image>
+      <File>C:\examples\ch24\DeepZoomProject\CoverCollage\source images\visual cpp 2008 how to program_1.jpg</File>
+      <Tree>C:\examples\ch24\DeepZoomProject\CoverCollage\working data\visual cpp 2008 how to program_1</Tree>
+      <TotalSize>7971462</TotalSize>
+    </Image>
+    <Image>
+      <File>C:\examples\ch24\DeepZoomProject\CoverCollage\source images\visual csharp 2008 how to program_1.jpg</File>
+      <Tree>C:\examples\ch24\DeepZoomProject\CoverCollage\working data\visual csharp 2008 how to program_1</Tree>
+      <TotalSize>5818969</TotalSize>
+    </Image>
+  </ImageList>
+  <CompositionList>
+    <Composition Name="" ZoomLevel="2.55107336237584">
+      <CompositionNode Id="0" Index="0" X="2.28066016263641" Y="247.462462479144" Width="152.667638466818" Height="200.703849751339" Visible="True" Active="False" Selected="False" />
+      <CompositionNode Id="1" Index="1" X="173.045053850689" Y="247.462462479144" Width="154.342434165503" Height="200.703849751338" Visible="True" Active="False" Selected="False" />
+      <CompositionNode Id="2" Index="2" X="345.411922973708" Y="247.462462479144" Width="153.384620941352" Height="200.703849751339" Visible="True" Active="False" Selected="False" />
+      <CompositionNode Id="3" Index="3" X="516.852158893567" Y="247.462462479144" Width="153.018373040346" Height="200.703849751339" Visible="True" Active="False" Selected="False" />
+      <CompositionNode Id="7" Index="4" X="136.450506075023" Y="289.278012523344" Width="1.47884090891003" Height="1.89895292440417" Visible="True" Active="False" Selected="False" />
+      <CompositionNode Id="8" Index="5" X="83.4019192921541" Y="12.1972878337087" Width="161.189513895837" Height="212.217420354241" Visible="True" Active="False" Selected="False" />
+      <CompositionNode Id="9" Index="6" X="254.537732176819" Y="12.1972878337087" Width="163.723946636262" Height="212.217420354241" Visible="True" Active="False" Selected="False" />
+      <CompositionNode Id="10" Index="7" X="426.342480029266" Y="12.1972878337087" Width="162.963742750095" Height="212.217420354241" Visible="True" Active="False" Selected="False" />
+      <CompositionNode Id="4" Index="8" X="154.948298629456" Y="224.41470818795" Width="18.0967552212338" Height="23.0477542911945" Visible="True" Active="False" Selected="False" />
+      <CompositionNode Id="5" Index="9" X="327.387488016192" Y="224.41470818795" Width="18.0244349575153" Height="23.0477542911942" Visible="True" Active="False" Selected="False" />
+      <CompositionNode Id="6" Index="10" X="498.79654391506" Y="224.41470818795" Width="18.0556149785067" Height="23.0477542911939" Visible="True" Active="False" Selected="False" />
+    </Composition>
+  </CompositionList>
+</DeepZoomComposerProject>

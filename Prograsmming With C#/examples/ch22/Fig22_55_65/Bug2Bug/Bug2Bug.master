@@ -1,0 +1,46 @@
+﻿<%-- Fig. 22.55: Bug2Bug.Master --%>
+<%-- Master page that defines commmon features of all pages in the --%>
+<%-- secure books database application. --%>
+<%@ Master Language="C#" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<script runat="server">
+
+</script>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+   <title>Bug2Bug</title>
+   <asp:ContentPlaceHolder id="head" runat="server">
+   </asp:ContentPlaceHolder>
+   <style type="text/css">
+    .style1
+    {
+       width: 100%;
+       height: 100%;
+    }
+   </style>
+</head>
+<body>
+   <form id="form2" runat="server">
+   <div>
+      <table cellpadding="0" cellspacing="0" class="style1">
+         <tr>
+            <td style="height: 130px;">
+               <asp:Image ID="headerImage" runat="server"
+                  ImageUrl="~/Images/bug2bug.png" />
+            </td>
+         </tr>
+         <tr>
+            <td valign="top">
+               <asp:ContentPlaceHolder id="bodyContent" runat="server">
+               </asp:ContentPlaceHolder>
+            </td>
+         </tr>
+      </table>
+   </div>
+   </form>
+</body>
+</html>

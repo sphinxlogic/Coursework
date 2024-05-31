@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlickrViewer", "FlickrViewer\FlickrViewer.csproj", "{9C00F96D-FEB9-4D64-8C75-D843BECC6458}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FlickrViewerWeb", "FlickrViewerWeb\", "{002EDE01-A68C-41F6-9635-1D502226A581}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/FlickrViewerWeb"
+		Debug.AspNetCompiler.PhysicalPath = "FlickrViewerWeb\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\FlickrViewerWeb\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/FlickrViewerWeb"
+		Release.AspNetCompiler.PhysicalPath = "FlickrViewerWeb\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\FlickrViewerWeb\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50684"
+		DefaultWebSiteLanguage = "Visual C#"
+		ProjOutputReferences = "{9C00F96D-FEB9-4D64-8C75-D843BECC6458}|ClientBin|false;"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C00F96D-FEB9-4D64-8C75-D843BECC6458}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{9C00F96D-FEB9-4D64-8C75-D843BECC6458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C00F96D-FEB9-4D64-8C75-D843BECC6458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C00F96D-FEB9-4D64-8C75-D843BECC6458}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9C00F96D-FEB9-4D64-8C75-D843BECC6458}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{9C00F96D-FEB9-4D64-8C75-D843BECC6458}.Release|.NET.ActiveCfg = Release|Any CPU
+		{9C00F96D-FEB9-4D64-8C75-D843BECC6458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C00F96D-FEB9-4D64-8C75-D843BECC6458}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C00F96D-FEB9-4D64-8C75-D843BECC6458}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{9C00F96D-FEB9-4D64-8C75-D843BECC6458}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{002EDE01-A68C-41F6-9635-1D502226A581}.Debug|.NET.ActiveCfg = Debug|.NET
+		{002EDE01-A68C-41F6-9635-1D502226A581}.Debug|.NET.Build.0 = Debug|.NET
+		{002EDE01-A68C-41F6-9635-1D502226A581}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{002EDE01-A68C-41F6-9635-1D502226A581}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{002EDE01-A68C-41F6-9635-1D502226A581}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{002EDE01-A68C-41F6-9635-1D502226A581}.Release|.NET.ActiveCfg = Debug|.NET
+		{002EDE01-A68C-41F6-9635-1D502226A581}.Release|.NET.Build.0 = Debug|.NET
+		{002EDE01-A68C-41F6-9635-1D502226A581}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{002EDE01-A68C-41F6-9635-1D502226A581}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{002EDE01-A68C-41F6-9635-1D502226A581}.Release|Mixed Platforms.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

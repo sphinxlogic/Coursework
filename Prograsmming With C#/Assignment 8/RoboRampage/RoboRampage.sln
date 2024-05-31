@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboRampage", "RoboRampage\RoboRampage.csproj", "{CD790DD3-C205-4F37-8F80-2A166214981D}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = RoboRampage\\RoboRampage.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = RoboRampage\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD790DD3-C205-4F37-8F80-2A166214981D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD790DD3-C205-4F37-8F80-2A166214981D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD790DD3-C205-4F37-8F80-2A166214981D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD790DD3-C205-4F37-8F80-2A166214981D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

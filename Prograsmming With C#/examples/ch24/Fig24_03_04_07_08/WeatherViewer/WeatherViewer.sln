@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherViewer", "WeatherViewer\WeatherViewer.csproj", "{48A24187-6087-4E45-87CB-261646536FDC}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WeatherViewerWeb", "WeatherViewerWeb\", "{AEEB6027-E5ED-4C47-B6CA-7CC399A6844E}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/WeatherViewerWeb"
+		Debug.AspNetCompiler.PhysicalPath = "WeatherViewerWeb\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WeatherViewerWeb\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WeatherViewerWeb"
+		Release.AspNetCompiler.PhysicalPath = "WeatherViewerWeb\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WeatherViewerWeb\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50324"
+		DefaultWebSiteLanguage = "Visual C#"
+		ProjOutputReferences = "{48A24187-6087-4E45-87CB-261646536FDC}|ClientBin|false;"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48A24187-6087-4E45-87CB-261646536FDC}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{48A24187-6087-4E45-87CB-261646536FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A24187-6087-4E45-87CB-261646536FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A24187-6087-4E45-87CB-261646536FDC}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{48A24187-6087-4E45-87CB-261646536FDC}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{48A24187-6087-4E45-87CB-261646536FDC}.Release|.NET.ActiveCfg = Release|Any CPU
+		{48A24187-6087-4E45-87CB-261646536FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A24187-6087-4E45-87CB-261646536FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48A24187-6087-4E45-87CB-261646536FDC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{48A24187-6087-4E45-87CB-261646536FDC}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{AEEB6027-E5ED-4C47-B6CA-7CC399A6844E}.Debug|.NET.ActiveCfg = Debug|.NET
+		{AEEB6027-E5ED-4C47-B6CA-7CC399A6844E}.Debug|.NET.Build.0 = Debug|.NET
+		{AEEB6027-E5ED-4C47-B6CA-7CC399A6844E}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{AEEB6027-E5ED-4C47-B6CA-7CC399A6844E}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{AEEB6027-E5ED-4C47-B6CA-7CC399A6844E}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{AEEB6027-E5ED-4C47-B6CA-7CC399A6844E}.Release|.NET.ActiveCfg = Debug|.NET
+		{AEEB6027-E5ED-4C47-B6CA-7CC399A6844E}.Release|.NET.Build.0 = Debug|.NET
+		{AEEB6027-E5ED-4C47-B6CA-7CC399A6844E}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{AEEB6027-E5ED-4C47-B6CA-7CC399A6844E}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{AEEB6027-E5ED-4C47-B6CA-7CC399A6844E}.Release|Mixed Platforms.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

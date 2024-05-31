@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="389d9be9-71d5-4e18-865d-7329e8a5f358" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:49732/EquationGeneratorServiceXML/Service.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Service.xsd" MetadataType="Schema" ID="2542361a-03cc-4e7e-b577-63e8891a3716" SourceId="1" SourceUrl="http://localhost:49732/EquationGeneratorServiceXML/Service.svc?xsd=xsd0" />
+    <MetadataFile FileName="EquationGeneratorService.wsdl" MetadataType="Wsdl" ID="ae310526-5918-442c-90d3-4319b85287c8" SourceId="1" SourceUrl="http://localhost:49732/EquationGeneratorServiceXML/Service.svc?wsdl" />
+    <MetadataFile FileName="Service1.xsd" MetadataType="Schema" ID="160c5dfd-db34-44a7-8bb0-9cba572de71f" SourceId="1" SourceUrl="http://localhost:49732/EquationGeneratorServiceXML/Service.svc?xsd=xsd1" />
+    <MetadataFile FileName="Service.disco" MetadataType="Disco" ID="49be35cc-6e35-4aaf-bb64-44cda317aa18" SourceId="1" SourceUrl="http://localhost:49732/EquationGeneratorServiceXML/Service.svc?disco" />
+    <MetadataFile FileName="Service2.xsd" MetadataType="Schema" ID="724606c9-4929-4d8c-b5c9-b06f7e9e581b" SourceId="1" SourceUrl="http://localhost:49732/EquationGeneratorServiceXML/Service.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

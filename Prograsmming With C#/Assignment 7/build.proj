@@ -1,0 +1,35 @@
+<Project DefaultTargets="BuildAll" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Release</Configuration>
+    <WixDir>Build\WIX\</WixDir>
+    
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Projects Include ="**\*.*csproj">
+    </Projects>
+  </ItemGroup>
+
+  <Target Name="CleanAll">
+    <MSBuild Projects="@(Projects)" Targets="Clean" />
+  </Target>
+
+  <Target Name="BuildAll" DependsOnTargets="CleanAll;BuildConstOne;Build" />
+  
+  <Target Name="BuildConstOne">
+    <MSBuild Projects="@(Projects)"
+             Properties="Configuration=$(Configuration)"/>
+  </Target>
+
+
+  
+ <Target Name="Build">
+   
+   <Exec Command="$(WIXDir)\candle.exe DateSetup.wxs" />
+   <Exec Command="$(WIXDir)\light.exe -ext WixUIExtension -cultures:en-us DateSetup.wixobj -out DateApp.msi" />
+
+</Target>
+
+   
+ 
+</Project>

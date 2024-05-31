@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<Metadata version="1">
+  <AspectRatio>1.53127822027031</AspectRatio>
+  <Image>
+    <FileName>C:\examples\ch24\DeepZoomProject\CoverCollage\source images\c how to program (5th edition).jpg</FileName>
+    <x>0</x>
+    <y>0.539637362931824</y>
+    <Width>0.228684773275177</Width>
+    <Height>0.460362637068176</Height>
+    <ZOrder>1</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\examples\ch24\DeepZoomProject\CoverCollage\source images\cpp how to program (6th edition).jpg</FileName>
+    <x>0.255792367303257</x>
+    <y>0.539637362931824</y>
+    <Width>0.231193492729294</Width>
+    <Height>0.460362637068176</Height>
+    <ZOrder>2</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\examples\ch24\DeepZoomProject\CoverCollage\source images\internet and world wide web how to program (4th edition).jpg</FileName>
+    <x>0.513985123681792</x>
+    <y>0.539637362931824</y>
+    <Width>0.229758759722321</Width>
+    <Height>0.460362637068176</Height>
+    <ZOrder>3</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\examples\ch24\DeepZoomProject\CoverCollage\source images\java how to program (7th edition).jpg</FileName>
+    <x>0.77078985240691</x>
+    <y>0.539637362931824</y>
+    <Width>0.22921014759309</Width>
+    <Height>0.460362637068176</Height>
+    <ZOrder>4</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\examples\ch24\DeepZoomProject\CoverCollage\source images\simply cpp.jpg</FileName>
+    <x>0.228684773275177</x>
+    <y>0.486771785330104</y>
+    <Width>0.0271075940280802</Width>
+    <Height>0.0528655776017207</Height>
+    <ZOrder>5</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\examples\ch24\DeepZoomProject\CoverCollage\source images\simply csharp.jpg</FileName>
+    <x>0.486985860032552</x>
+    <y>0.486771785330104</y>
+    <Width>0.0269992636492406</Width>
+    <Height>0.0528655776017202</Height>
+    <ZOrder>6</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\examples\ch24\DeepZoomProject\CoverCollage\source images\simply java.jpg</FileName>
+    <x>0.743743883404113</x>
+    <y>0.486771785330104</y>
+    <Width>0.0270459690027965</Width>
+    <Height>0.0528655776017202</Height>
+    <ZOrder>7</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\examples\ch24\DeepZoomProject\CoverCollage\source images\simply visual basic 2008.jpg</FileName>
+    <x>0.200976455134649</x>
+    <y>0.635551402013059</y>
+    <Width>0.00221519374610395</Width>
+    <Height>0.00435570606657651</Height>
+    <ZOrder>8</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\examples\ch24\DeepZoomProject\CoverCollage\source images\visual basic 2008 how to program.jpg</FileName>
+    <x>0.121513615708823</x>
+    <y>0</y>
+    <Width>0.241449909160788</Width>
+    <Height>0.486771785330104</Height>
+    <ZOrder>9</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\examples\ch24\DeepZoomProject\CoverCollage\source images\visual cpp 2008 how to program.jpg</FileName>
+    <x>0.377862341357702</x>
+    <y>3.60059954901624E-16</y>
+    <Width>0.24524630099894</Width>
+    <Height>0.486771785330103</Height>
+    <ZOrder>10</ZOrder>
+    <Tag />
+  </Image>
+  <Image>
+    <FileName>C:\examples\ch24\DeepZoomProject\CoverCollage\source images\visual csharp 2008 how to program.jpg</FileName>
+    <x>0.63521308186041</x>
+    <y>3.60059954901624E-16</y>
+    <Width>0.244107572090202</Width>
+    <Height>0.486771785330103</Height>
+    <ZOrder>11</ZOrder>
+    <Tag />
+  </Image>
+</Metadata>

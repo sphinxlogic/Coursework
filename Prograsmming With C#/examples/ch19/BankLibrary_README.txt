@@ -1,0 +1,3 @@
+BankLibrary contains a DLL that is used for 19.9, 19.12, 19.14, 19.15, and Exercise 19.6 (instructor manual and Exercises folder). In the event that its code needs to be changed (in terms of something other than whitespace or comments), please be sure the other programs work. Also, copy the DLL to Exercises\Ex18_06, which provides it for one of the exercises.
+
+Also, please be sure this file is deleted before things are sent out!

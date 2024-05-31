@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Collection MaxLevel="8" TileSize="256" Format="jpg" Quality="0.9499999881" NextItemId="11" xmlns="http://schemas.microsoft.com/deepzoom/2008">
+  <Items>
+    <I Id="0" N="0" IsPath="1" Source="dzc_output_images/c how to program (5th edition).xml">
+      <Size Width="3175" Height="4174" />
+      <Viewport Width="4.372832" X="0" Y="-1.541029" />
+    </I>
+    <I Id="1" N="1" IsPath="1" Source="dzc_output_images/cpp how to program (6th edition).xml">
+      <Size Width="2104" Height="2736" />
+      <Viewport Width="4.325381" X="-1.1064" Y="-1.524307" />
+    </I>
+    <I Id="2" N="2" IsPath="1" Source="dzc_output_images/internet and world wide web how to program (4th edition).xml">
+      <Size Width="2094" Height="2740" />
+      <Viewport Width="4.352391" X="-2.237064" Y="-1.533825" />
+    </I>
+    <I Id="3" N="3" IsPath="1" Source="dzc_output_images/java how to program (7th edition).xml">
+      <Size Width="2089" Height="2740" />
+      <Viewport Width="4.362809" X="-3.362809" Y="-1.537496" />
+    </I>
+    <I Id="4" N="4" IsPath="1" Source="dzc_output_images/simply cpp.xml">
+      <Size Width="2544" Height="3240" />
+      <Viewport Width="36.89003" X="-8.436188" Y="-11.72682" />
+    </I>
+    <I Id="5" N="5" IsPath="1" Source="dzc_output_images/simply csharp.xml">
+      <Size Width="2544" Height="3253" />
+      <Viewport Width="37.03805" X="-18.03701" Y="-11.77387" />
+    </I>
+    <I Id="6" N="6" IsPath="1" Source="dzc_output_images/simply java.xml">
+      <Size Width="2539" Height="3241" />
+      <Viewport Width="36.97409" X="-27.49925" Y="-11.75354" />
+    </I>
+    <I Id="7" N="7" IsPath="1" Source="dzc_output_images/simply visual basic 2008.xml">
+      <Size Width="2538" Height="3259" />
+      <Viewport Width="451.4278" X="-90.72636" Y="-187.3634" />
+    </I>
+    <I Id="8" N="8" IsPath="1" Source="dzc_output_images/visual basic 2008 how to program.xml">
+      <Size Width="2088" Height="2749" />
+      <Viewport Width="4.141646" X="-0.5032663" Y="0" />
+    </I>
+    <I Id="9" N="9" IsPath="1" Source="dzc_output_images/visual cpp 2008 how to program.xml">
+      <Size Width="2100" Height="2722" />
+      <Viewport Width="4.077533" X="-1.540746" Y="-9.587784E-16" />
+    </I>
+    <I Id="10" N="10" IsPath="1" Source="dzc_output_images/visual csharp 2008 how to program.xml">
+      <Size Width="2101" Height="2736" />
+      <Viewport Width="4.096555" X="-2.602185" Y="-9.632511E-16" />
+    </I>
+  </Items>
+</Collection>

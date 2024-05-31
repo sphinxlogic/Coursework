@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareRootTest", "SquareRootTest\SquareRootTest.csproj", "{9B0AB375-F976-4CDD-B051-BE590F9F447C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B0AB375-F976-4CDD-B051-BE590F9F447C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0AB375-F976-4CDD-B051-BE590F9F447C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0AB375-F976-4CDD-B051-BE590F9F447C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0AB375-F976-4CDD-B051-BE590F9F447C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
