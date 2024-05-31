@@ -1,1 +1,1 @@
-![uvawise](UVA_Wise_seal.png)
+![uvawise](large16x9_UVAWISELogo.webp)
